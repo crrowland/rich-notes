@@ -1,2 +1,2 @@
-# Greatest Docs Ever
+# About Us
 
