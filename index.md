@@ -7,10 +7,9 @@ Welcome to the future.
 :caption: "Contents:"
    
 development
-networking
-sip.phone
-hardware
-software
+network.devices
+services
+placeholder
 about_us
 ```
 

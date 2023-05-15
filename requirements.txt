@@ -2,3 +2,5 @@ sphinx
 livereload
 myst-parser
 sphinx-book-theme
+ablog
+sphinx-rtd-theme
